@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "jamstack"
+  "defaultProject": "jamstack",
+  "cli": {
+    "analytics": "72f7ac1f-7cb9-47e5-b2fe-20fc44acc103"
+  }
 }
